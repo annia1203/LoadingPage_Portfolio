@@ -7,11 +7,11 @@ function App() {
      <div class="ball">
       <div class="ball-t1">W</div>
       <div class="ball-t">E</div>
-      <div class="ball-t1">L</div>
-      <div class="ball-t">C</div>
-      <div class="ball-t1">O</div>
-      <div class="ball-t">M</div>
-      <div class="ball-t1">E</div>
+      <div class="ball-t2">L</div>
+      <div class="ball-t3">C</div>
+      <div class="ball-t4">O</div>
+      <div class="ball-t5">M</div>
+      <div class="ball-t6">E</div>
      </div> 
     </div>
   );
